@@ -55,11 +55,16 @@ The implemented login is a beta version that offers low security since the passw
 ## Screenshots.
 
 
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/4.jpg)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/5.jpg)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/6.jpg)  
 
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Screenshots/1_login_empty30.jpg)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Screenshots/3_profile30.jpg)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Screenshots/5_logbook_addDive30.jpg)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Screenshots/7_logbook_deleteOne30.jpg)
+
+
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/1.jpg)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/2.jpg)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/3.jpg)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
