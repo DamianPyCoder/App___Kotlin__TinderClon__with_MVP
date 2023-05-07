@@ -96,13 +96,7 @@ The implemented login is a beta version that offers low security since the passw
 ![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/Roboto.webp)
 
 #### Color Palette.
-
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_003060.png)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_055c9d.png)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_68bbe3.png)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_68bbe3.png)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_cfcfcf.png)
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/color_d5d5d5.png)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/colorClonTinder.png)  
 
 
 #### Icon.
