@@ -101,7 +101,7 @@ The implemented login is a beta version that offers low security since the passw
 
 #### Icon.
 
-![](https://github.com/DamianPyCoder/Kotlin__DiveLogbookApp/blob/main/Assets/icono.png)
+![](https://github.com/DamianPyCoder/Kotlin__TinderClon/blob/main/screenshots/icono.png)
 
 Autor: [Fasi](https://freeicons.io/profile/722).
 
